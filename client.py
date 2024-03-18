@@ -1,7 +1,7 @@
 import socket
 
 # Define the server's host and port
-SERVER_HOST = '127.0.0.1'  # Change this to the server's IP address if necessary
+SERVER_HOST = '10.172.13.73'  # Change this to the server's IP address if necessary
 SERVER_PORT = 12345  # Make sure this matches the server's port
 
 # Create a socket object

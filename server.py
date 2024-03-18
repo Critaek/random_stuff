@@ -2,7 +2,7 @@ import socket
 import select
 
 # Define the host and port to listen on
-HOST = '127.0.0.1'  # Use '0.0.0.0' to listen on all available interfaces
+HOST = '10.172.13.12'  # Use '0.0.0.0' to listen on all available interfaces
 PORT = 12345  # Choose a port number (e.g., 12345)
 
 # Create a socket object
